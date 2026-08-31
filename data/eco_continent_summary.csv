@@ -1,0 +1,5 @@
+continent,n_ecoregion,prop_positive,mean_abs_diff
+Africa,3,1,0.011769006991645
+Europe,4,1,0.0565463963766844
+North America,3,1,0.0549401124389874
+South America,3,1,0.0258576664377278

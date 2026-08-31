@@ -1,0 +1,3 @@
+stage,n_total,n_protected,n_control,n_country,n_ecoregion,n_country_ecoregion_strata,prop_with_pest_records
+Before matching,353500,81266,272234,134,15,327,0.0755756718528996
+After matching,116460,58230,58230,130,16,316,0.0744976816074189

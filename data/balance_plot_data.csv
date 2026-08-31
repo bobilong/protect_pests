@@ -1,0 +1,19 @@
+covariate,stage,smd
+carbon_percentile,Before matching,0.344162588964133
+carbon_percentile,After matching,0.0535812757291902
+treeCover,Before matching,0.367044681066639
+treeCover,After matching,0.0367941152161284
+human_foot,Before matching,0.333383821751224
+human_foot,After matching,0.153748800774582
+bio01,Before matching,0.388652452593629
+bio01,After matching,0.0240738935896399
+bio02,Before matching,0.176022958410226
+bio02,After matching,0.0667862845612173
+bio04,Before matching,0.530157149375144
+bio04,After matching,0.0190353201666568
+bio15,Before matching,0.0464348451895384
+bio15,After matching,0.00486408901300051
+ele,Before matching,0.0466806241257122
+ele,After matching,0.129345008595492
+FFI,Before matching,0.269211049499346
+FFI,After matching,0.0749822453134473
